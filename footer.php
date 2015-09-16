@@ -7,7 +7,7 @@
 
 <footer>
 	<div id="footerimg">
-		<img src="http://hotspot.dipelnet.com.br/prefeituracascavel/images/rodape.jpg" alt="Logo Dipelnet" />
+		<img src="img/rodape.jpg" alt="Cascavel" />
 	</div>
 	<!--
 	<div id="footertxt">
