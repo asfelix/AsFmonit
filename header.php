@@ -1,3 +1,6 @@
+<?php
+        require_once("common.php");
+?>
 <!DOCTYPE html>
   <html lang="pt-br">
   
@@ -21,7 +24,7 @@
 		<div id="header">
 			<header>
 				<div id="logo">
-					<img src="http://www.piraquara.pr.gov.br/img/PrefeituraPiraquara.jpg" alt="Prefeitura Municipal de Piraquara" />
+					<img src="img/PrefeituraPiraquara.jpg" alt="Prefeitura Municipal de Piraquara" />
 				</div>
 			</header>
 		</div>
