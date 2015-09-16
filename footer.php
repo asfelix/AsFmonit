@@ -6,7 +6,7 @@
 <br />
 
 <footer>
-	<div id="footerimg">
+	<div class="starter-template">
 		<img src="img/rodape.jpg" alt="Cascavel" />
 	</div>
 	<!--

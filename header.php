@@ -20,8 +20,8 @@
 
 <body>
 	
-	<div id="content">
-		<div id="header">
+	<div id="container">
+		<div class="starter-template">
 			<header>
 				<div id="logo">
 					<img src="img/PrefeituraPiraquara.jpg" alt="Prefeitura Municipal de Piraquara" />
